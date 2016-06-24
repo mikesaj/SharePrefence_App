@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Roaster</string>
+
+    <string name="color_prompt">Choose Eye Color</string>
+
+    <string-array name="eye_color_array">
+        <item>Brown</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Grey</item>
+        <item>Yellow</item>
+        <item>Pale</item>
+    </string-array>
+
+</resources>

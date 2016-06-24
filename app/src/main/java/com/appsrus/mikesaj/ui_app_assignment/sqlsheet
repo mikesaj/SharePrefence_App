@@ -1,0 +1,13 @@
+- WHERE number BETWEEN 1110000 AND 1200000;
+- WHERE firstName LIKE ‘Joh_'
+
+NULL
+- IS NULL
+- IS NOT NULL
+- NOT IN ( 'John', 'Jon' )
+- NOT BETWEEN
+- NOT LIKE
+- WHERE NOT product_category_code = 'M'
+
+
+
